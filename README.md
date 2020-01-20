@@ -1,7 +1,7 @@
 laravel vue admin wangeditor扩展
 ## 安装
 ```shell script
-composer require laravel-vue-admin/wangeditor
+composer require laravel-vue-admin-component/wangeditor
 ```
 ## 使用
 ```php
